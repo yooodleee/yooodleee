@@ -62,6 +62,6 @@
   ## 🤔 Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooodleee&show_icons=true&theme=transparent)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooodleee&langs_count=5&layout=compact)](https://github.com/yooodleee/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooodleee&langs_count=5)](https://github.com/yooodleee/github-readme-stats)
   
 </div>
