@@ -62,9 +62,9 @@
   ## 🤔 Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooodleee&show_icons=true&theme=transparent)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooodleee&langs_count=5&layout=compact)](https://github.com/yooodleee/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooodleee&langs_count=5&hide=HTML,TypeScript,Vue&layout=compact)](https://github.com/yooodleee/github-readme-stats)
   <br/>
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yooodleee&layout=compact)](https://github.com/yooodleee/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yooodleee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   
 </div>
