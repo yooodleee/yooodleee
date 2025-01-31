@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <!--SciPy-->
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/>
+  <!--pandas-->  
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <!--Keras-->  
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+  <!--Nuxt-->
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt&logoColor=white"/>
   <br/>
 
   ### Framework
@@ -62,14 +68,22 @@
   <br/>
 
   ### ETC
+  <!--Linux-->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <!--GitHub-->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <!--GIt-->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!--Anaconda-->
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+  <!--Chocolatey-->
+  <img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=SciPy&logoColor=white"/>
   <br/>
   <br/>
 
