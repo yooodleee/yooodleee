@@ -49,8 +49,10 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <!--Keras-->  
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-  <!--Nuxt-->
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt&logoColor=white"/>
+  <!--OpenAI Gym-->
+  <img src="https://img.shields.io/badge/OpenAI Gym-0081A5?style=flat-square&logo=OpenAI Gym&logoColor=white"/>
+  <!--Atari-->
+  <img src="https://img.shields.io/badge/Atari-E4202E?style=flat-square&logo=Atari&logoColor=white"/>
   <br/>
 
   ### Framework
@@ -58,6 +60,10 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <!--Nuxt-->
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt&logoColor=white"/>
+  <!--Spring Boot-->
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <br/>
 
   ### Editor
@@ -65,6 +71,8 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
   <!--Colab-->
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+  <!--IntelliJ IDEA-->
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
   <br/>
 
   ### ETC
