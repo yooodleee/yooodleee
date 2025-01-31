@@ -1,8 +1,12 @@
 <div>
+
+  <!--Header-->
   ![header](https://capsule-render.vercel.app/api?    type=venom&color=gradient&height=300&section=header&text=Welcome%20to-nl-yooodleee's%20Github!%20%F0%9F%A4%97)
 </div>
 
 <div>
+  <!--Body-->
+  
   ## 👀About Me
   #### 🙋: I am a student from South Korea.<br/>
   #### 🔥: I aim to made an big ensemble RL systems.
@@ -52,9 +56,11 @@
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
+  <br/>
 
   ## 🤔 Github Stats
-  <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooodleee&show_icons=true&theme=transparent)
+  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooodleee&langs_count=5&layout=compact)](https://github.com/yooodleee/github-readme-stats)
+  
 </div>
