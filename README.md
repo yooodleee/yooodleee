@@ -1,8 +1,9 @@
 <div>
 
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?=venom&color=gradient&height=200&section=header&text=Welcome%20to-nl-yooodleee's%20Github!%20%F0%9F%A4%97)
-  
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%yooodleee's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)  
 </div>
 
 <div>
