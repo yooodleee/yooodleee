@@ -151,7 +151,7 @@
   <!--Sqlite-->
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <!--Anaconda-->
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <!--Chocolatey-->
   <img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=SciPy&logoColor=white"/>
   <!--Gradle-->
