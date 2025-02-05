@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀About Me
-  ### 👨‍🎓: I am currently studying DL and RL, focusing on implementing and analyzing advanced AI models such as AlphaZero, Transformer-based architectures, and ensemble methods. My research interests include developing anomaly-adaptive models, MARL systems, and evolutionary strategies.
-  ### 🥅: In the future, I aspire to become an AI researcher, specializing in competitive and cooperative self-improving MARL systems. My ultimate goal is to design innovative algorithms that can be applied across various domains, from science and finance to broader real-world challenges!
+  ### 👨‍🎓 I am currently studying DL and RL, focusing on implementing and analyzing advanced AI models such as AlphaZero, Transformer-based architectures, and ensemble methods. My research interests include developing anomaly-adaptive models, MARL systems, and evolutionary strategies.
+  ### 🚀 In the future, I aspire to become an AI researcher, specializing in competitive and cooperative self-improving MARL systems. My ultimate goal is to design innovative algorithms that can be applied across various domains, from science and finance to broader real-world challenges!
   <br/>
   <br/>
 
