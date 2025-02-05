@@ -61,6 +61,8 @@
   <img src="https://img.shields.io/badge/OpenAI Gym-0081A5?style=flat-square&logo=OpenAI Gym&logoColor=white"/>
   <!--Atari-->
   <img src="https://img.shields.io/badge/Atari-E4202E?style=flat-square&logo=Atari&logoColor=white"/>
+  <!--RayLib-->
+  <img src="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black"/>
   <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
   <!--Streamlit-->
@@ -86,8 +88,6 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <!--NPM-->
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <!--RayLib-->
-  <img src="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black"/>
   <!--Vue.js-->
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <br/>
@@ -138,6 +138,8 @@
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
   <!--ZigBee-->
   <img src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white"/>
+  <!--FireFox-->
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
   <br/>
   <br/>
 
