@@ -15,7 +15,7 @@
   <br/>
 
   ## 🧱 Tech Stack
-  ### Language
+  ### 🎠Languages
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C++-->
@@ -41,7 +41,7 @@
   
 
 
-  ### Frameworks, Platforms and Libraries
+  ### 📚Frameworks, Platforms and Libraries
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--TensorFlow-->
@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"/>
   <br/>
 
-  ### Development Tools
+  ### 🧰Development Tools
   <!--PyCharm-->
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
   <!--Colab-->
@@ -123,7 +123,7 @@
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
   <br/>
 
-  ### ETC
+  ### 🥪ETC
   <!--Linux-->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <!--Ubuntu-->
