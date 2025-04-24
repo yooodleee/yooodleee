@@ -68,8 +68,6 @@
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
   <!--plotly-->
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <!--OpenAI Gym-->
-  <img src="https://img.shields.io/badge/OpenAI Gym-0081A5?style=flat-square&logo=OpenAI Gym&logoColor=white"/>
   <!--Atari-->
   <img src="https://img.shields.io/badge/Atari-E4202E?style=flat-square&logo=Atari&logoColor=white"/>
   <!--RayLib-->
@@ -180,6 +178,8 @@
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>
   <!--Geeks for Geeks-->
   <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
+  <!--Jira-->
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <br/>
   <br/>
 
