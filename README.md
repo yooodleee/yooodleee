@@ -9,8 +9,9 @@
   <!--Body-->
   
   ## 👀About Me
-  ### 👨‍🎓 I am currently studying DL and RL, focusing on implementing and analyzing advanced AI models such as AlphaZero, Transformer-based architectures, and ensemble methods. My research interests include developing anomaly-adaptive models, MARL systems, and evolutionary strategies.
-  ### 🚀 In the future, I aspire to become an AI researcher, specializing in competitive and cooperative self-improving MARL systems. My ultimate goal is to design innovative algorithms that can be applied across various domains, from science and finance to broader real-world challenges!
+  ### 👨‍🎓 안녕하세요, 고민보다는 GO하는 개발자 yooodleee입니다.
+  ### 🚀 Agile한 개발과 도메인 주도 개발을 통해 협업과 소통, 그리고 책임에 가치를 두는 개발자 yooodleee입니다.
+  ### 🐈 왜 이걸 사용해야 하는가, 어떻게 문제를 해결해야 하는가를 끊임 없이 고민하는 개발자 yooodleee입니다.
   <br/>
   <br/>
 
