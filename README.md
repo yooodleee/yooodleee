@@ -8,10 +8,13 @@
 <div>
   <!--Body-->
   
-  ## 👀About Me
-  ### 👨‍🎓 안녕하세요, 고민보다는 GO하는 개발자 yooodleee입니다.
-  ### 🚀 Agile한 개발과 도메인 주도 개발을 통해 협업과 소통, 그리고 책임에 가치를 두는 개발자 yooodleee입니다.
-  ### 🐈 왜 이걸 사용해야 하는가, 어떻게 문제를 해결해야 하는가를 끊임 없이 고민하는 개발자 yooodleee입니다.
+  ## 🧑‍💼고민보다 Go하는 개발자 yooodleee입니다.
+  ### 🧑‍🎓 용산 고등학교 졸업 
+  ### 🍀 2024.07.29 ~ 2024.12.20: 실무 프로젝트 기반 LLM 서비스 개발자 양성 과정 수료
+  ### 🦋 2024.11.20 ~ 2025.05.20: SKNetworks Family AI 캠프 8기 수료 
+  ### ✏️ 네트워크 관리사 2급, 정보처리기사
+  ### 🤼‍♂️ Keyword: Agile, DDD, Trouble Shooting, Follow-up
+  ### ⚡Language: Python, C++, Java, Julia
   <br/>
   <br/>
 
