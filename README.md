@@ -60,7 +60,15 @@
   <!--Go-->
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&style=flat"/>
   
-
+  ### 🐢 Backend Frameworks & Tools
+  <!--Django-->
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=flat"/>
+  <!--Redis-->
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat"/>
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat"/>
+  <!--Scrapy-->
+  <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3&style=flat"/>
 
   ### 📚Frameworks, Platforms and Libraries
   <!--PyTorch-->
