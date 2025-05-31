@@ -24,11 +24,13 @@
   ### 🤖 AI 피드백을 통해 생산성, 의사소통, 개발 역량, 문서 작성, 유연성, 의사결정력이라는 6가지 항목에 대한 정량적 평가를 제공합니다.
   ### 🧠 사용자 피드백과 답변 데이터를 학습하여, 질문 품질을 지속적으로 개선하는 학습형 면접 플랫폼입니다.
   ### 🧑‍💻 결과적으로 면접 연습 -> 피드백 -> 개선 -> 재응시의 선순환을 통해 개발자 지망생들의 실전 면접에 임할 수 있도록 JobStick이 존재합니다. 또한, 사용자의 피드백을 수집하고 분석하여 질문 개선과 기능 업데이트도 빠르게 반영하고 있습니다.
+  <br/>
+  <br/>
   
-  ## 🧱 Tech Stack
+  ## 📊 Tech Stack
   ### 🎠Languages
   <!--Python-->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat"/>
   <!--C++-->
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <!--C-->
