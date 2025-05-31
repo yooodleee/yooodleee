@@ -147,7 +147,7 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&style=flat"/>
   <br/>
 
-  ### 🧰Development Tools
+  ### 🧰 Development Tools
   <!--PyCharm-->
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green&style=flat"/>
   <!--Google Colab-->
@@ -168,7 +168,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat"/>
   <br/>
 
-  ### 🥪ETC
+  ### 🥪 ETC
   <!--Nginx-->
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&style=flat"/>
   <!--RSS-->
@@ -216,7 +216,7 @@
   <br/>
   <br/>
 
-  ## 🤔 Github Stats
+  ## 🦉 Github Stats
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooodleee&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&hide=jupyter%20notebook&exclude_repo=Face-Transfer-Application" width=38% />
