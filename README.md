@@ -53,8 +53,6 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat"/>
   <!--YAML-->
   <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515&style=flat"/>
-  <!--CUDA-->
-  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green&style=flat"/>
   <!--RUST-->
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&style=flat"/>
   <!--Julia-->
@@ -76,11 +74,23 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat"/>
   <!--spring-->
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat"/>
+  <!--Flask-->
+  <img src="(https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&style=flat"/>
+  <!--JWT-->
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&style=flat"/>
   <!--Scrapy-->
   <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3&style=flat"/>
+  <!--MariaDB-->
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&style=flat"/>
+  <!--MongoDB-->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=flat"/>
+  <!--SQLite-->
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&style=flat"/>
   <br/>
 
   ### 🦝 Frontend Frameworks & Tools
+  <!--Node.js-->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=flat"/>
   <!--Vue.js-->
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&style=flat"/>
   <!--vuetify-->
@@ -120,6 +130,8 @@
   <img src="https://img.shields.io/badge/Atari-E4202E?style=flat-square&logo=Atari&logoColor=white&style=flat"/>
   <!--RayLib-->
   <img src="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black&style=flat"/>
+  <!--OpenCV-->
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat"/>
   <br/>
 
   ### 🦥 DevOps & Collaboration
@@ -135,6 +147,8 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat"/>
   <!--Amazon S3-->
   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white&style=flat"/>
+  <!--Google Cloud-->
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&style=flat"/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat"/>
   <!--Notion-->
@@ -217,6 +231,12 @@
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white&style=flat"/>
   <!--Geeks for Geeks-->
   <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&style=flat"/>
+  <!--CUDA-->
+  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green&style=flat"/>
+  <!--Cloudflare-->
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&style=flat"/>
+  <!--Kubuntu-->
+  <img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white&style=flat"/>
   <br/>
   <br/>
 
