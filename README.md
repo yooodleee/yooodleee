@@ -30,6 +30,18 @@
   ### Notion과 Slack을 연동하여 협업을 진행했고, 이슈를 발행하여 트러블 슈팅을 관리했습니다.
   <br/>
   <br/>
+
+  ## 🔹 미니 개인 프로젝트
+  ### 주제: DevOps 파이프라인과 운영 환경 구현
+  ### IaC(Terraform): ECR, ECS Fargate, ALB, VPC 등을 모두 코드로 자동화했습니다.
+  ### Docker: 앱 컨테이너라이징 및 ECR 배포를 했습니다.
+  ### ECS Fargate: 서버리스 인프라 운영, 비용 최적화를 고려했습니다.
+  ### ALB 구성: Target Group 및 포트 라우팅을 설정했습니다.
+  ### Prometheus + Grafana: 실시간 모니터링 시스템을 구축했습니다.
+  ### EC2 Security Group/Firewall: 네트워크 보안 기본 설정을 진행했습니다.
+  ### 이외에도 다수의 AWS/네트워크 문제를 직접 해결했습니다.
+  <br/>
+  <br/>
   
   ## 📊 Tech Stack
   ### 🎠Languages
