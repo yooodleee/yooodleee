@@ -12,10 +12,11 @@
   ### 🧑‍🎓 용산 고등학교 졸업 
   ### 🍀 2024.07.29 ~ 2024.12.20: 실무 프로젝트 기반 LLM 서비스 개발자 양성 과정 수료
   ### 🦋 2024.11.20 ~ 2025.05.20: SKNetworks Family AI 캠프 8기 수료 
-  ### ✏️ 네트워크 관리사 2급, 정보처리기사
+  ### ✏️ 네트워크 관리사 2급
   ### 📜 프로젝트: AI 기반의 모의 면접 질문 서비스 | JobStick
+  ### 📘 서브 프로젝트: simple-dev-proj | devops-vote-app
   ### 🤼‍♂️ Keyword: Agile, DDD, Trouble Shooting, Follow-up
-  ### ⚡Language: Python, C++, Java, Julia
+  ### ⚡Language: Python, Shell Script, Go, C++, Java, Julia
   <br/>
   <br/>
 
@@ -39,7 +40,7 @@
   ### ALB 구성: Target Group 및 포트 라우팅을 설정했습니다.
   ### Prometheus + Grafana: 실시간 모니터링 시스템을 구축했습니다.
   ### EC2 Security Group/Firewall: 네트워크 보안 기본 설정을 진행했습니다.
-  ### 이외에도 다수의 AWS/네트워크 문제를 직접 해결했습니다.
+  ### Jenkins에서 CI/CD 파이프라인을 구축하여 로그를 분석했습니다.
   <br/>
   <br/>
   
