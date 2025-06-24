@@ -38,9 +38,14 @@
   ### Docker: 앱 컨테이너라이징 및 ECR 배포를 했습니다.
   ### ECS Fargate: 서버리스 인프라 운영, 비용 최적화를 고려했습니다.
   ### ALB 구성: Target Group 및 포트 라우팅을 설정했습니다.
-  ### Prometheus + Grafana: 실시간 모니터링 시스템을 구축했습니다.
+  ### AWS ECR: 이미지 Push 자동화
+  ### AWS ECS: 자동 배포 연결 
+  ### Prometheus: 메트릭 수집(Node, Docker, EC2, Jenkins)
+  ### Node Exporter: EC2 CPU, memory, disk, network metric
+  ### Grafana: Prometheus 메트릭 시각화 대시보드 설정 
   ### EC2 Security Group/Firewall: 네트워크 보안 기본 설정을 진행했습니다.
-  ### Jenkins에서 CI/CD 파이프라인을 구축하여 로그를 분석했습니다.
+  ### Jenkins: GitHub 연동, Freestyle Job 구성, Slack 연동, Jenkinsfiel(CI/CD)
+  ### Jenkinsfile을 작성하여 CI/CD 파이프라인을 구성했습니다.
   <br/>
   <br/>
   
