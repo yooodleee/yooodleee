@@ -45,7 +45,6 @@
   ### Grafana: Prometheus 메트릭 시각화 대시보드 설정 
   ### EC2 Security Group/Firewall: 네트워크 보안 기본 설정을 진행했습니다.
   ### Jenkins: GitHub 연동, Freestyle Job 구성, Slack 연동, Jenkinsfiel(CI/CD)
-  ### Jenkinsfile을 작성하여 CI/CD 파이프라인을 구성했습니다.
   <br/>
   <br/>
   
