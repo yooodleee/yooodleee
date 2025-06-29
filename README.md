@@ -23,28 +23,25 @@
   ## 🙌 프로젝트 경험
   ### 기간: 2024.11.20 ~ 2025.05.20
   ### 주제: AI 기반의 모의 면접 서비스
-  ### 사이트: JobStick | 기업 핵심 정보 분석 및 AI 모의 면접
-  ### 사용자 피드백 기반의 도메인 주도 개발을 진행했습니다.
-  ### AWS EC2 인스턴스를 생성하여 Backend, Frontend 배포 환경을 구성했습니다.
-  ### SEO 최적화를 진행했고, 사용자 모니터링을 위해 Google Analytics와 Google Search Console을 연동하여 사용자 모니터링을 진행했습니다.
-  ### 소프트웨어 변경 사항이 있으면 merge하여 자동으로 테스트, 빌드, 배포가 수행되도록 workflow를 생성하여 자동 CD 파이프라인을 구축했습니다.
-  ### Notion과 Slack을 연동하여 협업을 진행했고, 이슈를 발행하여 트러블 슈팅을 관리했습니다.
+  ### Backend
+  #### Django: 핵심 비즈니스 규칙 판정 및 사용자 요청 정의
+  #### MySQL: 관계형 데이터 구조를 통해 사용자/질문/피드백 모델링
+  #### Redis: 로그인 세션 정보 캐싱
+  #### Docker: 개발과 테스트 환경의 알관성 확보
+  ### Frontend
+  #### Nuxt 기반의 사용자 친화적 웹 페이지 구현
+  #### SEO 최적화와 GA4 기반의 사용자 유입과 트래픽 분석
+  ### Infra
+  #### AWS EC2: Backend & Frontend 배포 환경 구성
+  #### AWS CloudFront & Route53: 도메인 IP 호스팅
+  #### GitHub Actions 기반의 자동 CD Pipeline 구성
+  #### gRPC 기반 서비스로 GitHub Actions 상태 수집 후 대시 보드에 실시간 모니터링링
   <br/>
   <br/>
 
   ## 🔹 미니 개인 프로젝트
   ### 주제: DevOps 파이프라인과 운영 환경 구현
-  ### IaC(Terraform): ECR, ECS Fargate, ALB, VPC 등을 모두 코드로 자동화했습니다.
-  ### Docker: 앱 컨테이너라이징 및 ECR 배포를 했습니다.
-  ### ECS Fargate: 서버리스 인프라 운영, 비용 최적화를 고려했습니다.
-  ### ALB 구성: Target Group 및 포트 라우팅을 설정했습니다.
-  ### AWS ECR: 이미지 Push 자동화
-  ### AWS ECS: 자동 배포 연결 
-  ### Prometheus: 메트릭 수집(Node, Docker, EC2, Jenkins)
-  ### Node Exporter: EC2 CPU, memory, disk, network metric
-  ### Grafana: Prometheus 메트릭 시각화 대시보드 설정 
-  ### EC2 Security Group/Firewall: 네트워크 보안 기본 설정을 진행했습니다.
-  ### Jenkins: GitHub 연동, Freestyle Job 구성, Slack 연동, Jenkinsfiel(CI/CD)
+  ### 
   <br/>
   <br/>
   
