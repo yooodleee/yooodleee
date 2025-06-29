@@ -28,9 +28,13 @@
   #### MySQL: 관계형 데이터 구조를 통해 사용자/질문/피드백 모델링
   #### Redis: 로그인 세션 정보 캐싱
   #### Docker: 개발과 테스트 환경의 알관성 확보
+
+  
   ### Frontend
   #### Nuxt 기반의 사용자 친화적 웹 페이지 구현
   #### SEO 최적화와 GA4 기반의 사용자 유입과 트래픽 분석
+
+  
   ### Infra
   #### AWS EC2: Backend & Frontend 배포 환경 구성
   #### AWS CloudFront & Route53: 도메인 IP 호스팅
