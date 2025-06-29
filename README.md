@@ -41,7 +41,12 @@
 
   ## 🔹 미니 개인 프로젝트
   ### 주제: DevOps 파이프라인과 운영 환경 구현
-  ### 
+  ### 애플리케이션 빌드 및 컨테이너화
+  ### Terraform 기반의 AWS 리소스 구성
+  ### Jenkins 기반의 CI/CD Pipeline 구성
+  ### Prometheus + Grafana 기반의 모니터링 시스템 구축
+  ### CloudWatch Exporter 기반의 ECS/ALB/EC2 CPU 사용률, 요청 수 집계 
+  ### systemd로 서비스를 등록하여 포트 관리 
   <br/>
   <br/>
   
