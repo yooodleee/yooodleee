@@ -7,54 +7,7 @@
 
 <div>
   <!--Body-->
-  
-  # 🐘 고민보다 Go하는 개발자 yooodleee입니다.
-  ### 🧑‍🎓 용산 고등학교 졸업 
-  ### 🧑‍🎓 동국대학교 전산원 컴퓨터공학과 졸업 
-  ### 🍀 2024.07.29 ~ 2024.12.20: 실무 프로젝트 기반 LLM 서비스 개발자 양성 과정 수료
-  ### 🦋 2024.11.20 ~ 2025.05.20: SKNetworks Family AI 캠프 8기 수료 
-  ### ✏️ 네트워크 관리사 2급
-  ### 📜 프로젝트: AI 기반의 모의 면접 질문 서비스 | JobStick
-  ### 📘 서브 프로젝트: simple-dev-proj | devops-vote-app
-  ### 🤼‍♂️ Keyword: Agile, DDD, Trouble Shooting, Follow-up
-  ### ⚡Language: Python, Shell Script, Go, C++, Java, Julia
-  <br/>
-  <br/>
 
-  ## 🙌 프로젝트 경험
-  ### 기간: 2024.11.20 ~ 2025.05.20
-  ### 주제: AI 기반의 모의 면접 서비스
-  ### Backend
-  #### Django: 핵심 비즈니스 규칙 판정 및 사용자 요청 정의
-  #### MySQL: 관계형 데이터 구조를 통해 사용자/질문/피드백 모델링
-  #### Redis: 로그인 세션 정보 캐싱
-  #### Docker: 개발과 테스트 환경의 알관성 확보
-
-  
-  ### Frontend
-  #### Nuxt 기반의 사용자 친화적 웹 페이지 구현
-  #### SEO 최적화와 GA4 기반의 사용자 유입과 트래픽 분석
-
-  
-  ### Infra
-  #### AWS EC2: Backend & Frontend 배포 환경 구성
-  #### AWS CloudFront & Route53: 도메인 IP 호스팅
-  #### GitHub Actions 기반의 자동 CD Pipeline 구성
-  #### gRPC 기반 서비스로 GitHub Actions 상태 수집 후 대시 보드에 실시간 모니터링링
-  <br/>
-  <br/>
-
-  ## 🔹 미니 개인 프로젝트
-  ### 주제: DevOps 파이프라인과 운영 환경 구현
-  ### 애플리케이션 빌드 및 컨테이너화
-  ### Terraform 기반의 AWS 리소스 구성
-  ### Jenkins 기반의 CI/CD Pipeline 구성
-  ### Prometheus + Grafana 기반의 모니터링 시스템 구축
-  ### CloudWatch Exporter 기반의 ECS/ALB/EC2 CPU 사용률, 요청 수 집계 
-  ### systemd로 서비스를 등록하여 포트 관리 
-  <br/>
-  <br/>
-  
   ## 📊 Tech Stack
   ### 🎠Languages
   <!--Python-->
