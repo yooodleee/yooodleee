@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=flat"/>
   <!--SQLite-->
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&style=flat"/>
+  <!--PostgreSQL-->
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat"/>
   <br/>
 
   ### 🦝 Frontend Frameworks & Tools
@@ -84,6 +86,14 @@
   <img src="https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white&style=flat"/>
   <!--Flutter-->
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&style=flat"/>
+  <!--EJS-->
+  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black&stlye=flat"/>
+  <!--React-->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat"/>
+  <!--TailwindCSS-->
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat"/>
+  <!--WindCSS-->
+  <img src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white&style=flat"/>
   <br/>
 
   ### 🧪 Data Science / ML / DL
@@ -188,6 +198,8 @@
   <img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=SciPy&logoColor=white&style=flat"/>
   <!--Gradle-->
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white&style=flat"/>
+  <!--Maven-->
+  <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white&style=flat"/>
   <!--Swagger-->
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white&style=flat"/>
   <!--FireFox-->
