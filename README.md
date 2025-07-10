@@ -94,6 +94,8 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat"/>
   <!--WindCSS-->
   <img src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white&style=flat"/>
+  <!--Next.js-->
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat"/>
   <br/>
 
   ### 🧪 Data Science / ML / DL
