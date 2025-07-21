@@ -69,6 +69,8 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&style=flat"/>
   <!--PostgreSQL-->
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat"/>
+  <!--.NET-->
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat"/>
   <br/>
 
   ### 🦝 Frontend Frameworks & Tools
@@ -96,6 +98,10 @@
   <img src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white&style=flat"/>
   <!--Next.js-->
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat"/>
+  <!--Selenium-->
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&style=flat"/>
+  <!--Streamlit-->
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white&style=flat"/>
   <br/>
 
   ### 🧪 Data Science / ML / DL
