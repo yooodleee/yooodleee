@@ -71,6 +71,10 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat"/>
   <!--.NET-->
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat"/>
+  <!--Prisma -->
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=flat"/>
+  <!--TypeORM-->
+  <img src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white&style=flat"/>
   <br/>
 
   ### 🦝 Frontend Frameworks & Tools
@@ -98,6 +102,8 @@
   <img src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white&style=flat"/>
   <!--Next.js-->
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat"/>
+  <!--Nest.js-->
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&style=flat"/>
   <!--Selenium-->
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&style=flat"/>
   <!--Streamlit-->
