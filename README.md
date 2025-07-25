@@ -84,10 +84,14 @@
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&style=flat"/>
   <!--vuetify-->
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF&style=flat"/>
+  <!--Vite-->
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&style=flat"/>
   <!--Nuxt-->
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82&style=flat"/>
   <!--NPM-->
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&style=flat"/>
+  <!--PNPM-->
+  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220&style=flat"/>
   <!--Stylus-->
   <img src="https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white&style=flat"/>
   <!--Flutter-->
@@ -108,6 +112,10 @@
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&style=flat"/>
   <!--Streamlit-->
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white&style=flat"/>
+  <!--Svelte-->
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white&style=flat"/>
+  <!--SvelteKit-->
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white&style=flat"/>
   <br/>
 
   ### 🧪 Data Science / ML / DL
@@ -202,6 +210,8 @@
   ### 🥪 ETC
   <!--Nginx-->
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&style=flat"/>
+  <!--SaSS-->
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=flat"/>
   <!--RSS-->
   <img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white&style=flat"/>
   <!--Anaconda-->
