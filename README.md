@@ -114,8 +114,6 @@
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white&style=flat"/>
   <!--Svelte-->
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white&style=flat"/>
-  <!--SvelteKit-->
-  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white&style=flat"/>
   <br/>
 
   ### 🧪 Data Science / ML / DL
