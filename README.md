@@ -150,6 +150,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat"/>
   <!--Ubuntu-->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat"/>
+  <!--CentOS-->
+  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0&style=flat"/>
+  <!--Debian-->
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white&style=flat"/>
+  <!--Fedora-->
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&style=flat"/>
   <!--Window-->
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat"/>
   <!--Docker-->
@@ -212,6 +218,8 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=flat"/>
   <!--RSS-->
   <img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white&style=flat"/>
+  <!--Red Hat-->
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white&style=flat"/>
   <!--Anaconda-->
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white&style=flat"/>
   <!--Google Chrome-->
@@ -222,6 +230,8 @@
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white&style=flat"/>
   <!--Maven-->
   <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white&style=flat"/>
+  <!--yarn-->
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&style=flat"/>
   <!--Swagger-->
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white&style=flat"/>
   <!--FireFox-->
