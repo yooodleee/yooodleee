@@ -75,6 +75,10 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=flat"/>
   <!--TypeORM-->
   <img src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white&style=flat"/>
+  <!--Pytest-->
+  <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3&style=flat"/>
+  <!--Poetry-->
+  <img src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D&style=flat"/>
   <br/>
 
   ### 🦝 Frontend Frameworks & Tools
@@ -184,6 +188,8 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat"/>
   <!--Github Actions-->
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&style=flat"/>
+  <!--CircleCI-->
+  <img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white&stlye=flat"/>
   <!--Prometheus-->
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white&style=flat"/>
   <!--Grafana-->
