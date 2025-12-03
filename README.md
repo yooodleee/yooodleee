@@ -30,12 +30,16 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&style=flat"/>
   <!--Julia-->
   <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&style=flat"/>
+  <!--R-->
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white&style=flat"/>
   <!--Dart-->
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&style=flat"/>
   <!--Go-->
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&style=flat"/>
   <!--bash script-->
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&style=flat"/>
+  <!--Assembly Script-->
+  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white&style=flat"/>
   <br/>
   
   ### 🐢 Backend Frameworks & Tools
@@ -45,6 +49,8 @@
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat"/>
   <!--FastAPI-->
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&style=flat"/>
+  <!--Gunicorn-->
+  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white&style=flat"/>
   <!--Redis-->
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat"/>
   <!--MySQL-->
@@ -69,8 +75,8 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=flat"/>
   <!--Oracle-->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&style=flat"/>
-  <!--.NET-->
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=flat"/>
+  <!--SQLAlchemy-->
+  <img src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white&style=flat"/>
   <!--Prisma -->
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=flat"/>
   <!--TypeORM-->
@@ -108,6 +114,8 @@
   <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black&style=flat"/>
   <!--React-->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat"/>
+  <!--Angular.js-->
+  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white&style=flat"/>
   <!--TailwindCSS-->
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat"/>
   <!--WindCSS-->
