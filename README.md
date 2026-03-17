@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat"/>
   <!--C-->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=flat"/>
+  <!--Java-->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=flat"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat"/>
   <!--TypeScript-->
@@ -33,6 +35,8 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=flat"/>
   <!--FastAPI-->
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&style=flat"/>
+  <!--Spring-->
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat"/>
   <!--Redis-->
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat"/>
   <!--MySQL-->
