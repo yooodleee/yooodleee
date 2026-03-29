@@ -33,6 +33,8 @@
   ### 🐢 BE
   <!--Django-->
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=flat"/>
+  <!--DJango REST Framework-->
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat"/>
   <!--FastAPI-->
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&style=flat"/>
   <!--Spring-->
