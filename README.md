@@ -34,15 +34,20 @@ $ cat /proc/developer/status
 
 $ cat /etc/developer/philosophy
 > "Your feedback is a gifs. I mean it. diff accepted."
+
 > "Failure is not a dead end - it's an unhandled exception
-  waiting to be caught, logged, and learned from."
+   waiting to be caught, logged, and learned from."
+
 > "I might be wrong. That's not a bug. That's how I iterate."
+
 > "Stop overthinking. Just Go.
-  (Yes, the language too.)"
+   (Yes, the language too.)"
+
 > "I've been cursed with the curse of knowledge.
-  I can no longer remeber what it felt like not to know."
+   I can no longer remeber what it felt like not to know."
+
 > "I love this more than anyone.
-  That's nor a claim. That's a commit history."
+   That's nor a claim. That's a commit history."
 
 $ ls -la ./interests/
 drwxr-xr-x  Harness Engineering
