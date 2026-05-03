@@ -8,13 +8,13 @@
 
 ```bash
 $ whoami
-> Backend / Fullstack Engineer
+> Backend / Software Enginner
 
 $ interests
-> Distributed Systems / Payment Architecture / Reinforcement Learning
+> Agile Methodology / Harness Engineering / Reinforcement Learning 
 
 $ current_focus
-> Designing scalable backend systems & experimenting with RL environments
+> Building and operating "SSAC(싹)" — a financial information service for high school seniors and early-career individuals
 ```
 
 ---
