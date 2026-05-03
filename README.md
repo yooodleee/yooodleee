@@ -33,9 +33,16 @@ $ cat /proc/developer/status
 └─────────────────────────────────────────────────────────────┘
 
 $ cat /etc/developer/philosophy
-> "Make it work. Make it right. Make it fast. In that order."
-> "Premature optimization is the root of all evil — but so is ignoring it forever."
-> "A system that cannot be observed cannot be trusted."
+> "Your feedback is a gifs. I mean it. diff accepted."
+> "Failure is not a dead end - it's an unhandled exception
+  waiting to be caught, logged, and learned from."
+> "I might be wrong. That's not a bug. That's how I iterate."
+> "Stop overthinking. Just Go.
+  (Yes, the language too.)"
+> "I've been cursed with the curse of knowledge.
+  I can no longer remeber what it felt like not to know."
+> "I love this more than anyone.
+  That's nor a claim. That's a commit history."
 
 $ ls -la ./interests/
 drwxr-xr-x  Harness Engineering
