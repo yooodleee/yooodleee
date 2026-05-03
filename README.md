@@ -11,7 +11,7 @@ $ whoami
 > Backend / Software Enginner
 
 $ interests
-> Agile Methodology / Harness Engineering / Reinforcement Learning 
+> Agile Methodology / Harness Engineering / Project Management / Reinforcement Learning 
 
 $ current_focus
 > Building and operating "SSAC(싹)" — a financial information service for high school seniors and early-career individuals
@@ -26,15 +26,11 @@ $ current_focus
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yooodleee&theme=tokyo-night"/>
-</p>
-
 ---
 
 ## ⚙️ Core Stack (Opinionated)
 
-### 🧠 Languages
+### 🔤 Languages
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
@@ -44,30 +40,33 @@ $ current_focus
 <img src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white"/>
 </p>
 
-### 🏗 Backend Architecture
+### 🐢 Backend Skills
 
 <p>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-005571?logo=fastapi"/>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat"/>
 </p>
 
-### 🌐 Frontend
+### 🫅 Frontend Skills
 
 <p>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/next-black?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Nuxt-002E3B.svg?style=for-the-badge&logo=nuxt&logoColor=#00DC82&style=flat"/>
 </p>
 
-### 🤖 ML / RL
+### 🤖 ML / RL / Data Science
 
 <p>
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white&stlye=flat"/>
 </p>
 
 ### ☁️ DevOps / Infra
@@ -89,29 +88,8 @@ $ current_focus
 
 ---
 
-## 🧪 Lab (WIP Mindset)
-
-```bash
-$ ls ~/projects
-> payment-system/
-> rl-sandbox/
-> devops-pipeline/
-```
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yooodleee/yooodleee/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📡 Signal
-
-<p>
-<img src="https://img.shields.io/badge/status-building%20systems-success"/>
-<img src="https://img.shields.io/badge/focus-backend%20architecture-blue"/>
-<img src="https://img.shields.io/badge/mode-learning%20RL-critical"/>
 </p>
