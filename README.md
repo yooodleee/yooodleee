@@ -7,8 +7,10 @@
 ---
 
 ```bash
-$ whoami
-> Backend / Software Enginner
+$ system.status()
+> USER : yooodleee
+> ROLE : Backend / Sofware Engineer 
+> MODE : Building / Experimenting / Scailing 
 
 $ interests
 > Agile Methodology / Harness Engineering / Project Management / Reinforcement Learning 
@@ -73,7 +75,7 @@ $ current_focus
 
 <p>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-%23FF9900.svg?logo=amazon-aws&logoColor=white"/>
 </p>
