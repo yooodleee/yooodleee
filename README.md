@@ -1,38 +1,82 @@
-<div>
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded\&color=timeGradient\&text=yooodleee%20%7C%20System%20Builder%20%F0%9F%9A%80\&animation=twinkling\&fontSize=40\&fontAlign=50\&height=180)
+```
+██╗   ██╗ ██████╗  ██████╗  ██████╗ ██████╗ ██╗     ███████╗███████╗
+╚██╗ ██╔╝██╔═══██╗██╔═══██╗██╔═══██╗██╔══██╗██║     ██╔════╝██╔════╝
+ ╚████╔╝ ██║   ██║██║   ██║██║   ██║██║  ██║██║     █████╗  █████╗  
+  ╚██╔╝  ██║   ██║██║   ██║██║   ██║██║  ██║██║     ██╔══╝  ██╔══╝  
+   ██║   ╚██████╔╝╚██████╔╝╚██████╔╝██████╔╝███████╗███████╗███████╗
+   ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝
+```
 
 </div>
 
 ---
 
 ```bash
-$ system.status()
-> USER : yooodleee
-> ROLE : Backend / Sofware Engineer 
-> MODE : Building / Experimenting / Scailing 
+[BIOS] Initializing system...................................................OK
+[BOOT] Loading kernel modules................................................OK
+[BOOT] Mounting filesystems..................................................OK
+[INIT] Starting developer process............................................OK
 
-$ interests
-> Agile Methodology / Harness Engineering / Project Management / Reinforcement Learning 
+$ whoami
+> yooodleee
 
-$ current_focus
-> Building and operating "SSAC(싹)" — a financial information service for high school seniors and early-career individuals
+$ cat /proc/developer/status
+┌─────────────────────────────────────────────────────────────┐
+│  PID       : 2001-1025                                      │
+│  USER      : yooodleee                                      │
+│  ROLE      : Backend Engineer / System Builder              │
+│  UPTIME    : still running, no segfault yet                 │
+│  LOAD AVG  : high — but within acceptable bounds            │
+│  STATUS    : [BUILDING] [EXPERIMENTING] [SCALING]           │
+└─────────────────────────────────────────────────────────────┘
+
+$ cat /etc/developer/philosophy
+> "Make it work. Make it right. Make it fast. In that order."
+> "Premature optimization is the root of all evil — but so is ignoring it forever."
+> "A system that cannot be observed cannot be trusted."
+
+$ ls -la ./interests/
+drwxr-xr-x  Harness Engineering
+drwxr-xr-x  Reinforcement Learning
+drwxr-xr-x  Agile Methodology
+drwxr-xr-x  Distributed Systems
+drwxr-xr-x  Project Management
+drwxr-xr-x  System Design
+
+$ cat ./current_project/README
+┌─────────────────────────────────────────────────────────────┐
+│  PROJECT  : SSAC (싹) 🌱                                    │
+│  DESC     : Financial literacy service                      │
+│             for high school seniors & early-career adults   │
+│  STACK    : Spring Boot / Next.js / MySQL / Redis           │
+│  STATUS   : [ACTIVE] Building prod-grade harness system     │
+│  GOAL     : Eradicating financial illiteracy, one quiz      │
+│             at a time                                       │
+└─────────────────────────────────────────────────────────────┘
+
+$ ./run --mode=geek
+> Compiling opinions on software architecture.............[DONE]
+> Loading strong opinions on system design................[DONE]
+> Mounting opinionated tech stack.........................[DONE]
+> All systems nominal. Let's build something that lasts.
 ```
-
----
-
-## 📊 System Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight"/>
-</p>
 
 ---
 
 ## ⚙️ Core Stack (Opinionated)
 
+> "I don't collect badges. I collect systems that actually run in prod."
+
 ### 🔤 Languages
+```
+java        ████████████████████  primary weapon of choice
+python      ███████████████░░░░░  for when math needs to run
+typescript  ████████████░░░░░░░░  because dynamic typing is a lie
+go          ████████░░░░░░░░░░░░  for when latency matters
+rust        ████░░░░░░░░░░░░░░░░  still reading the borrow checker docs
+```
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
@@ -42,56 +86,99 @@ $ current_focus
 <img src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white"/>
 </p>
 
-### 🐢 Backend Skills
-
+### 🐢 Backend
+> "The API is a promise. I intend to keep it."
 <p>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-005571?logo=fastapi"/>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white"/>
 </p>
 
-### 🫅 Frontend Skills
-
+### 🫅 Frontend
+> "The UI is the last line of honesty between the system and the user."
 <p>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/next-black?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/Nuxt-002E3B.svg?style=for-the-badge&logo=nuxt&logoColor=#00DC82&style=flat"/>
+<img src="https://img.shields.io/badge/Nuxt-002E3B.svg?logo=nuxt&logoColor=#00DC82"/>
 </p>
 
 ### 🤖 ML / RL / Data Science
-
+> "A model that cannot explain itself is a system I don't trust."
 <p>
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white&stlye=flat"/>
+<img src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
 </p>
 
 ### ☁️ DevOps / Infra
-
+> "If it's not in code, it doesn't exist."
 <p>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-%23FF9900.svg?logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Current Experiments
+## 🧪 Current Experiments
 
-* Payment System Architecture (PG abstraction & transaction consistency)
-* Reinforcement Learning environments (custom simulation + training loop)
-* CI/CD automation with GitHub Actions
+```bash
+$ ls -la ./experiments/
+-rw-r--r--  [IN PROGRESS]  Payment System Architecture
+                            └─ PG abstraction & transaction consistency
+                            └─ Thinking hard about idempotency
+
+-rw-r--r--  [IN PROGRESS]  Reinforcement Learning Environments  
+                            └─ Custom simulation + training loop
+                            └─ Reward shaping is harder than it looks
+
+-rw-r--r--  [IN PROGRESS]  Harness Engineering  
+                            └─ CI gates, contract validation, coverage enforcement
+                            └─ Making the pipeline smarter than the developer
+
+-rw-r--r--  [COMPLETED]    SSAC — Financial Literacy Platform
+                            └─ Prod-grade Spring Boot + Next.js
+                            └─ Because someone has to explain what APR means
+```
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 System Metrics
+
+```bash
+$ system.metrics --user=yooodleee
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Commit Entropy Visualization
+
+```bash
+$ git log --all --oneline | wc -l
+> still counting...
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yooodleee/yooodleee/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+```bash
+$ shutdown --mode=graceful
+> Flushing buffers.............................................[DONE]
+> Saving state.................................................[DONE]
+> See you in the next commit.
+> 
+> -- yooodleee
+```
