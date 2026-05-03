@@ -70,6 +70,10 @@
   <img src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white&style=flat"/>
   <!--Next.js-->
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat"/>
+  <!--Eslint-->
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&style=flat"/>
+  <!--Prettier-->
+  <img src="https://img.shields.io/badge/prettier-%23192a32?style=for-the-badge&logo=prettier&logoColor=dc524a&style=flat"/>
   <br/>
 
   ### 🤖 ML
