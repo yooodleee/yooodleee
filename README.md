@@ -180,9 +180,6 @@ $ git log --all --oneline | wc -l
 > still counting...
 ```
 
-<!-- 라이트 모드 -->
-<img src="https://raw.githubusercontent.com/yooodleee/yooodleee/output/github-contribution-grid-snake.svg"/>
-
 <!-- 다크 모드 대응 -->
 <picture>
   <source
