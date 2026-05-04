@@ -166,8 +166,10 @@ $ ls -la ./experiments/
 $ system.metrics --user=yooodleee
 ```
 
-<img src="https://github-readme-stats-six-delta-63.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats-six-delta-63.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
