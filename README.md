@@ -15,8 +15,6 @@
 
 ## ⚙️ Core Stack (Opinionated)
 
-> "I don't collect badges. I collect systems that actually run in prod."
-
 ### 🔤 Languages
 <p> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
@@ -67,21 +65,7 @@
 
 ## 📊 System Metrics
 
-```bash
-$ system.metrics --user=yooodleee
-```
-
 <p align="center">
-  <img src="https://github-readme-stats-six-delta-63.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-six-delta-63.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
-
----
-```bash
-$ shutdown --mode=graceful
-> Flushing buffers.............................................[DONE]
-> Saving state.................................................[DONE]
-> See you in the next commit.
-> 
-> -- yooodleee
-```
