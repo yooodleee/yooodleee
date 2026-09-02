@@ -13,10 +13,12 @@
 
 ---
 
+<div align="center">
+ 
 ## ⚙️ Core Stack (Opinionated)
 
 ### 🔤 Languages
-<p> 
+<p align="center"> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"/>
@@ -25,7 +27,7 @@
 </p>
 
 ### 🐢 Backend
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-005571?logo=fastapi"/>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"/>
@@ -35,7 +37,7 @@
 </p>
 
 ### 🫅 Frontend
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/next-black?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"/>
@@ -44,7 +46,7 @@
 </p>
 
 ### 🤖 ML / RL / Data Science
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"/>
@@ -53,7 +55,7 @@
 </p>
 
 ### ☁️ DevOps / Infra
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-%23FF9900.svg?logo=amazon-aws&logoColor=white"/>
@@ -61,7 +63,11 @@
 <img src="https://img.shields.io/badge/jenkins-D24939.svg?logo=jenkins&logoColor=white"/>
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 System Metrics
 
@@ -69,3 +75,5 @@
   <img src="https://github-readme-stats-six-delta-63.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
+
+</div>
