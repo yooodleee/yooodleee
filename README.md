@@ -12,20 +12,57 @@
 ```text
 yooodleee@github:~$ whoami
 
-Software Engineer
-Backend · Systems · DevOps · AI
+software engineer
+backend / systems / devops / ai
 
-STATUS      : BUILDING
-MINDSET     : SYSTEMS > FEATURES
-CURRENT     : JAVA / SPRING
-INTERESTS   : DISTRIBUTED SYSTEMS / RL / INFRA
+yooodleee@github:~$ uptime
+
+∞ days
+∞ hours
+∞ problems
 ```
 
 </div>
 
 ---
 
-## `$ cat /proc/yooodleee/stack`
+## `$ cat /proc/yooodleee`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│ PID     PROCESS                 STATE               │
+├─────────────────────────────────────────────────────┤
+│ 0001    backend                 RUNNING             │
+│ 0002    systems                 RUNNING             │
+│ 0003    infrastructure          RUNNING             │
+│ 0004    machine-learning        RUNNING             │
+│ 0005    curiosity               RUNNING             │
+│ 9999    "works on my machine"   ZOMBIE              │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## `$ cat /etc/yooodleee.conf`
+
+```yaml
+primary:
+  language: Java
+  framework: Spring Boot
+
+also-running:
+  - Python
+  - TypeScript
+  - Go
+  - Rust
+
+interested-in:
+  - distributed-systems
+  - databases
+  - infrastructure
+  - reinforcement-learning
+  - intelligent-systems
+```
 
 <p align="center">
 
@@ -38,43 +75,55 @@ INTERESTS   : DISTRIBUTED SYSTEMS / RL / INFRA
 <br/>
 
 <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"/>
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white"/>
 
 </p>
 
 ---
 
-## `$ cat /etc/engineering.conf`
+## `$ dmesg | tail`
 
-```yaml
-principles:
-  - understand_before_abstraction
-  - reproduce_before_fix
-  - observe_before_guess
-  - automate_before_repeat
-  - document_the_why
+```text
+[ OK ] problem detected
+[ OK ] problem reproduced
+[ OK ] root cause isolated
+[ OK ] fix implemented
+[ OK ] test passed
+[ OK ] monitoring added
+[ OK ] incident documented
 
-loop:
-  - observe
-  - model
-  - build
-  - measure
-  - iterate
+[INFO] repeat.
 ```
 
-> `A bug is usually evidence of an incomplete mental model.`
+> `A bug is evidence that my mental model is incomplete.`
+
+---
+
+## `$ cat /etc/engineering.conf`
+
+```text
+observe  →  understand  →  model
+                     ↓
+                  build
+                     ↓
+                 measure
+                     ↓
+                 iterate
+                     ↺
+```
+
+```text
+RULE_001  don't guess when you can observe
+RULE_002  don't repeat what you can automate
+RULE_003  don't abstract what you don't understand
+RULE_004  don't fix what you cannot reproduce
+RULE_005  document the "why"
+```
 
 ---
 
@@ -83,24 +132,25 @@ loop:
 ```text
 On branch: learning
 
-Changes not staged for commit:
-  modified: backend
-  modified: systems
-  modified: infrastructure
-  modified: machine-learning
+modified:
+  backend
+  systems
+  infrastructure
+  intelligence
 
 nothing is finished.
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats-six-delta-63.vercel.app/api?username=yooodleee&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yooodleee&theme=tokyonight&hide_border=true" width="49%"/>
-
 ```text
-$ echo $UPTIME
+────────────────────────────────────────────────────────
 
-∞
+$ echo "Hello, World."
+
+Hello, System.
+
+────────────────────────────────────────────────────────
 ```
 
 </div>
