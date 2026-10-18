@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 810 192" width="810" height="192" role="img" aria-label="YOOODLEEE">
+  <style>
+    .art { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 16px; white-space: pre; }
+    .sub { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; fill: #57606a; }
+    .cur { fill: #3fb950; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) { .sub { fill: #8b949e; } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3fb950"/>
+      <stop offset="1" stop-color="#1f9bcf"/>
+    </linearGradient>
+  </defs>
+  <text class="art" fill="url(#g)" xml:space="preserve">
+    <tspan x="404.8" y="40.0" text-anchor="middle">██╗   ██╗ ██████╗  ██████╗  ██████╗ ██████╗ ██╗     ███████╗███████╗</tspan>
+    <tspan x="404.8" y="59.0" text-anchor="middle">╚██╗ ██╔╝██╔═══██╗██╔═══██╗██╔═══██╗██╔══██╗██║     ██╔════╝██╔════╝</tspan>
+    <tspan x="404.8" y="78.0" text-anchor="middle"> ╚████╔╝ ██║   ██║██║   ██║██║   ██║██║  ██║██║     █████╗  █████╗  </tspan>
+    <tspan x="404.8" y="97.0" text-anchor="middle">  ╚██╔╝  ██║   ██║██║   ██║██║   ██║██║  ██║██║     ██╔══╝  ██╔══╝  </tspan>
+    <tspan x="404.8" y="116.0" text-anchor="middle">   ██║   ╚██████╔╝╚██████╔╝╚██████╔╝██████╔╝███████╗███████╗███████╗</tspan>
+    <tspan x="404.8" y="135.0" text-anchor="middle">   ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝</tspan>
+  </text>
+  <text class="sub" x="404.8" y="172.0" text-anchor="middle">backend · systems · devops · ai · experiments<tspan class="cur"> █</tspan></text>
+</svg>
